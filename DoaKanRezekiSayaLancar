@@ -1,3 +1,22 @@
+==========BRI LIGA 1=====
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17623&type=drm 
+https://chiva.my.id/sc/avid/play.mpd?id=17623&type=dash
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 2
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+           
+
+
 //============================================= //JANGAN LUPA FOLLOW @BAGASANUGRAHW_17 🟩🇮🇩⚽Sports V+ & VIDIO 1 //==========================================//
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -281,13 +300,3 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd" group-title="🟩🇮🇩⚽Sports V+ & VIDIO 1",Xtrem Sports (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
-
-//=============================== //Collected by FREEMIUM TV menampilkan playlist >>> Murrotal Al-Quran //======================= 
-
-#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 http://j.mp/2b8SiNO 
-
-#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 http://j.mp/2b8RJmQ
-
-
