@@ -705,6 +705,12 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/157485
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="🟩⚽TIMNAS DAY", Astro Arena 2
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/287793
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="🟩⚽TIMNAS DAY",ASTRO ARENA BOLA 1
+http://mytv-extra.com:80/t12mgxyb335/9832948789/23931
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="🟩⚽TIMNAS DAY", ASTRO ARENA BOLA 2
+http://mytv-extra.com:80/t12mgxyb335/9832948789/23930
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
