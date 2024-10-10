@@ -212,10 +212,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 1" tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title=group-title="🟩⚽TIMNAS DAY", Bahrain Sports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title=group-title="🟩⚽TIMNAS DAY", Bahrain Sports 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/121097
 
-#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 2" tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title=group-title="🟩⚽TIMNAS DAY", Bahrain Sports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title=group-title="🟩⚽TIMNAS DAY", Bahrain Sports 2
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145860
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="🟩⚽TIMNAS DAY", LIVE 3
