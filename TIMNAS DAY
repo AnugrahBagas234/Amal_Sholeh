@@ -208,9 +208,15 @@ ERROR NOT FOUND 404
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="🟩⚽TIMNAS DAY", LIVE 2 (TV BAHRAIN)
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="🟩⚽TIMNAS DAY", TV BAHRAIN
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 1" tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title=group-title="🟩⚽TIMNAS DAY", Bahrain Sports 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/121097
+
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 2" tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title=group-title="🟩⚽TIMNAS DAY", Bahrain Sports 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145860
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="🟩⚽TIMNAS DAY", LIVE 3
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
