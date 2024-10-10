@@ -219,8 +219,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
 
 
-#EXTM3U  
-#EXT-X-VERSION:3  
+#EXTM3U
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="test yt 2", LIVE 3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000 
 https://manifest.googlevideo.com/api/manifest/dash/expire/1728567021/ei/jYIHZ9fIAtyfjuMPrsqO2AQ/ip/36.90.5.166/id/pEaSJmZ0vjU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241485/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/siu/1/spc/54MbxVXrcYj4DnZhZinYN8sN3WhpgoEn1oF6Lv83cR1QpNdq4QfKX0fWKBpO8Yh0bfiry2A/vprv/1/rqh/2/pacing/0/keepalive/yes/fexp/51300761/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Cas%2Csiu%2Cspc%2Cvprv%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgA3iqhX7Cw8cZW9cne5FXgX95HswTA1oUIcFdUQfwwp4CIDm59KZ4pcqhFlTJTvbi4thx7ivYGSN29idnZ4lNLXDg","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728567021/ei/jYIHZ9fIAtyfjuMPrsqO2AQ/ip/36.90.5.166/id/pEaSJmZ0vjU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241485/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/maxh/4320/maudio/1/siu/1/spc/54MbxVXocYj4DnZhZinYN8sN3WhpgoEn1oF6Lv83cB1QpNdq4QfKX0fWKBpO8Yh0bfiry2A_fw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPgXsCoEebDAdEW3l0ZZgaNGktczNCzFFQKYXYG0bH2LAiBNxGlV8xqpmbxVCrDROnzZPPN4o8mRUb8KSOar464nvg%3D%3D/file/index.m3u8
 
