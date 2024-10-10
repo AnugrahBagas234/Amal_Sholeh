@@ -240,6 +240,43 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
+=======
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",LOTUS MACAU
+http://tv.cloudcdn.me/live.ts?channelId=129287&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png" group-title="SHAREEXT@Television/MY/ASTRO",INSPIRASI-mpd(ott.nav)
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/inspirasi/
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",Vanaavill(z)
+https://zozotv.xyz:443/live/lisshomestay/@1212/58.ts
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",TVS(z)
+https://zozotv.xyz:443/live/lisshomestay/@1212/59.ts
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",okey.(z)
+https://zozotv.xyz:443/live/lisshomestay/@1212/24.ts
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",RIA..
+http://vo01.mohdtv.com:8880/voby5324/62119828/1705
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",OASIS..
+http://shareext@15.235.181.35/live.ts?channelId=93735&uid=14505&deviceMac=00:1A:79:A7:53:75&id=oasis
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",BOO_(n)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37457
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",PrimeTime_(n)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37458
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",Showcase Movies_(n)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/724b0efaef7a6f098800a18489d4d7a6.svg" group-title="SHAREEXT@Television/MY/ASTRO", Animal Planet
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/301290
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/59e1195922dfbaa08b9d5633c30e8f50.png" group-title="SHAREEXT@Television/MY/ASTRO", AEC
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/247409
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/bc43d98ee1b43a6639c118d61bbbd5a8.png" group-title="SHAREEXT@Television/MY/ASTRO", AOD 354
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/247413
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="SHAREEXT@Television/MY/ASTRO", Astro Arena
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/157485
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="SHAREEXT@Television/MY/ASTRO", Astro Arena 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/287793
+======
+
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="🟩⚽TIMNAS DAY", Astro Arena
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/157485
 
